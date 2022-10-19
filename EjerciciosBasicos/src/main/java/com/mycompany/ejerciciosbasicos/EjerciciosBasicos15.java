@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class EjerciciosBasicos15 {
     public static void main(String[] args) {
-        /*15. Escribe un programa que lea tres números distintos y nos diga cuál es el mayor.*/
+        /*15. Escribe un programa que lea tres numeros distintos y nos diga cuál es el mayor.*/
         
         //Input
         Scanner sc = new Scanner(System.in);
